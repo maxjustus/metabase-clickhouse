@@ -1,6 +1,7 @@
 # What
 
 A Dockerfile + make command to build an amd64 + arm64 Docker image for Metabase with the ClickHouse driver installed.
+https://hub.docker.com/r/maxjustus/metabase-clickhouse
 
 ## Requirements
 
